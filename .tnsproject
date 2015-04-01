@@ -1,0 +1,6 @@
+{
+	"id": "org.nativescript.barcodeApp",
+	"tns-android": {
+		"version": "0.4.2-2015.4.1.2"
+	}
+}

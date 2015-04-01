@@ -1,0 +1,1 @@
+# nativescript-android-barcodeapp
